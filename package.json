@@ -1,13 +1,13 @@
 {
-  "name": "gentelella",
+  "name": "gentelella-verkstedt",
   "version": "1.4.0",
-  "description": "Gentelella Admin is a free to use Bootstrap admin template",
+  "description": "Gentelella Admin Template for verkstedt | forked from [Colorlib](https://colorlib.com/ "Colorlib - Make Your First Blog") and Aigars Silkalns",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/puikinsh/gentelella.git"
+    "url": "git+https://github.com:verkstedt/gentelella.git"
   },
   "keywords": [
     "css",
@@ -20,16 +20,15 @@
     "backend",
     "responsive"
   ],
-  "author": "Aigars Silkalns",
+  "author": "Mario Jäckle",
   "contributors": [
-    "Christian Esperar"
   ],
   "license": "MIT",
   "main": "build/js/custom.min.js",
   "bugs": {
-    "url": "https://github.com/puikinsh/gentelella/issues"
+    "url": "https://github.com:verkstedt/gentelella.git/issues"
   },
-  "homepage": "https://github.com/puikinsh/gentelella#readme",
+  "homepage": "github.com:verkstedt/gentelella.git#readme",
   "devDependencies": {
     "browser-sync": "^2.12.10",
     "gulp": "^3.9.1",
